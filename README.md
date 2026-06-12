@@ -168,7 +168,6 @@ An intelligent attendance management system leveraging facial recognition to aut
 <a href="https://www.codechef.com/users/army_echo_51" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="35"/></a>
 <a href="https://codeforces.com/profile/mohan621311" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="35"/></a>
 <a href="https://www.hackerrank.com/mohan621311" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35"/></a>
-<a href="https://www.geeksforgeeks.org/profile/mohan90yfn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GeeksforGeeks.svg" height="35"/></a>
 </p>
 
 ---
@@ -182,14 +181,6 @@ An intelligent attendance management system leveraging facial recognition to aut
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-96a&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohan-96a&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
